@@ -11,4 +11,4 @@ jobs:
     steps:
       - name: Enviar notificación a ntfy.sh
         run: |
-          curl -d "Se ha hecho push al repositorio mi-hola-mundo en la rama main" https://ntfy.sh/devops-itla
+          curl -d "Se ha hecho push al repositorio mi-hola-mundo en la rama main" https://ntfy.sh/devops-itlaa
